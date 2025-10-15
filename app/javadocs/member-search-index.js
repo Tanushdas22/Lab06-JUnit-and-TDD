@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.listycity","c":"ExampleUnitTest","l":"addition_isCorrect()"},{"p":"com.example.listycity","c":"ExampleUnitTest","l":"ExampleUnitTest()","u":"%3Cinit%3E()"}];updateSearchResults();
